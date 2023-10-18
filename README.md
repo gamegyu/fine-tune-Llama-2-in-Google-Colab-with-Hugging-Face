@@ -7,3 +7,4 @@ A simeple .ipynb try to demo
 1. read/write Hugging Face Llama 2 Models & Datasets
 2. fine tune
 3. inference
+4. work with colab
